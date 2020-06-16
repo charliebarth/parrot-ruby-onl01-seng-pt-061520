@@ -5,4 +5,4 @@ def parrot(name = "Squawk")
  
 end
 
-parrot("Pretty Bird!")
+parrot("Pretty bird!")
